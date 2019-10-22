@@ -1,0 +1,5 @@
+Task 1:                9290.6331 seconds
+Task 2:               26022.1039 seconds
+Task 3:                  16.4776 seconds
+Task 4: Linear search -  26.2016 seconds
+        k-NN search   -   2.2052 seconds

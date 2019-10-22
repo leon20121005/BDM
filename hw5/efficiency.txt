@@ -1,0 +1,3 @@
+Task 1: 70.7696 seconds
+Task 2: 67.6918 seconds
+Task 3: 84.6601 seconds
